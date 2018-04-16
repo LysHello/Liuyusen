@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dfsadsfsadsdfgsdaf
 
 dsf
@@ -6,3 +7,6 @@ f
 sdaf
 dsa
 f
+=======
+dfsadsfsadretgsdfgdf
+>>>>>>> aacc10c8aa8d71fe6ce1e10aa175d0e07e52da79
